@@ -40,7 +40,7 @@
         }
 
         a {
-            color: inherit;
+            color: palevioletred;
             text-decoration: inherit
         }
 
